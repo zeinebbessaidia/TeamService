@@ -5197,7 +5197,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'MongoDB.Driver' 2.11.3 présente une vulnérabilité de gravité élevé(e) connue, https://github.com/advisories/GHSA-7j9m-j397-g4wx.",
+      "message": "Package 'MongoDB.Driver' 2.11.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-7j9m-j397-g4wx",
       "libraryId": "MongoDB.Driver",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -5207,7 +5207,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Le package 'MongoDB.Driver' 2.11.3 présente une vulnérabilité de gravité moyenne connue, https://github.com/advisories/GHSA-p9rv-qgqw-jx2w.",
+      "message": "Package 'MongoDB.Driver' 2.11.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-p9rv-qgqw-jx2w",
       "libraryId": "MongoDB.Driver",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
